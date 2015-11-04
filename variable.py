@@ -21,3 +21,18 @@ print(hours) #output = 10 (this is from hours = 9 and then + 1)
 
 hours = hours * 2
 print(hours) #output = 20 (thisi is from hours = 9 + 1 then * 2)
+
+#---------------------------------------------------------------------------#
+
+#minutes = minutes + 1
+#seconds = minutes * 60
+
+#print(seconds) #error karena minutes tidak di definisikan
+
+#---------------------------------------------------------------------------#
+
+age = 26
+days = 365
+
+live = age * days
+print(live)
